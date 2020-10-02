@@ -39,3 +39,5 @@ def foo(bar):</code>
 
 <p>Now why might this be useful you ask. If you want to do large scale multiproccesing for a project, and dont want to  do the repetetive task of threading</p>
 <p> Something I am working on and may post later is a python script that auto-threads a whole python file</p>
+
+If you like make sure to give it a star. :)
